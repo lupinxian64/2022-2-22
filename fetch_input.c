@@ -2,11 +2,11 @@
 
 int main() {
 
-    int a ;
-    int b ;
-    int c ;
-    int d ;
-    int e ;
+    int a = 0;
+    int b = 0;
+    int c = 0;
+    int d = 0;
+    int e = 0;
 
     printf("請輸入五個數字，以空白隔開。\n");
     //add scanf code to get data from input
